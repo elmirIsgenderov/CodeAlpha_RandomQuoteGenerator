@@ -7,7 +7,7 @@ Each time the app is opened or the user taps the “New Quote” button, a fresh
 
 This project was developed as part of the **CodeAlpha Android Development Internship** and focuses on using modern development practices for API integration and UI presentation.
 
-🎯 Key Features
+🎯 Key Features :
 
 - 🔄 Fetches a random quote on app launch and button click  
 - 👤 Displays both the quote text and the author's name  
