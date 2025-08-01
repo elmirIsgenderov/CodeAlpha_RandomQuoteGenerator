@@ -13,7 +13,7 @@ This project was developed as part of the **CodeAlpha Android Development Intern
 - 👤 Displays both the quote text and the author's name  
 - ⚡ Simple and minimal user interface  
 - 📡 Uses Retrofit for API calls  
-- 🧪 Error handling and progress visibility  
+- 🧪 Error handling and progress visibility   
 
 ## 📷 Screenshots
 Below are screenshots of the application:
